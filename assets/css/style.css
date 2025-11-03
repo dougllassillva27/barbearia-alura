@@ -238,6 +238,7 @@ form legend {
 }
 
 .enviarFormulario {
+  max-width: 600px;
   width: 40%;
   padding: 15px 0;
   background: orange;
